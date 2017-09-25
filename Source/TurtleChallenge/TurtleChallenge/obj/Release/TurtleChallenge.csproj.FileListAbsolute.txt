@@ -1,0 +1,7 @@
+C:\dev\TurtleChallenge\TurtleChallenge\bin\Release\TurtleChallenge.exe.config
+C:\dev\TurtleChallenge\TurtleChallenge\bin\Release\game-settings.txt
+C:\dev\TurtleChallenge\TurtleChallenge\bin\Release\moves.txt
+C:\dev\TurtleChallenge\TurtleChallenge\bin\Release\TurtleChallenge.exe
+C:\dev\TurtleChallenge\TurtleChallenge\bin\Release\TurtleChallenge.pdb
+C:\dev\TurtleChallenge\TurtleChallenge\obj\Release\TurtleChallenge.exe
+C:\dev\TurtleChallenge\TurtleChallenge\obj\Release\TurtleChallenge.pdb

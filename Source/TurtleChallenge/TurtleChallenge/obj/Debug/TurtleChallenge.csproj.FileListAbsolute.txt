@@ -1,0 +1,8 @@
+C:\dev\TurtleChallenge\TurtleChallenge\bin\Debug\TurtleChallenge.exe.config
+C:\dev\TurtleChallenge\TurtleChallenge\bin\Debug\TurtleChallenge.exe
+C:\dev\TurtleChallenge\TurtleChallenge\bin\Debug\TurtleChallenge.pdb
+C:\dev\TurtleChallenge\TurtleChallenge\obj\Debug\TurtleChallenge.csprojResolveAssemblyReference.cache
+C:\dev\TurtleChallenge\TurtleChallenge\obj\Debug\TurtleChallenge.exe
+C:\dev\TurtleChallenge\TurtleChallenge\obj\Debug\TurtleChallenge.pdb
+C:\dev\TurtleChallenge\TurtleChallenge\bin\Debug\game-settings.txt
+C:\dev\TurtleChallenge\TurtleChallenge\bin\Debug\moves.txt
